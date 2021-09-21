@@ -7,6 +7,7 @@ An Ansible role for installing the Python programming language.
 - `python_version` - Python version
 - `python_development` - Python development version (default: `False`)
 
-## Example Playbook
+## Reference
 
-See the [examples](./examples/) directory.
+This ansible role is taken mostly out of azavea.postgresql(https://github.com/azavea/ansible-python.git) from Azavea Inc., but I stripped it down for brevity.
+
