@@ -1,10 +1,10 @@
 ---
 galaxy_info:
-  author: Hector Castro
+  author: Rongbing Miao
   description: An Ansible role for installing the Python programming language.
-  company: Azavea Inc.
+  company: Boston Public Library
   license: Apache
-  min_ansible_version: 1.2
+  min_ansible_version: 1.9
   platforms:
   - name: Ubuntu
     versions:
