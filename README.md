@@ -9,5 +9,5 @@ An Ansible role for installing the Python programming language.
 
 ## Reference
 
-This ansible role is taken mostly out of azavea.postgresql(https://github.com/azavea/ansible-python.git) from Azavea Inc., but I stripped it down for brevity.
+This ansible role is taken mostly out of [azavea.postgresql](https://github.com/azavea/ansible-python.git) from Azavea Inc., but I stripped it down for brevity.
 
